@@ -51,7 +51,7 @@ background-color: rgb(110, 135, 202);
 .header img{
     width: 175px;
     height: 175px;
-    margin-left: 572px;
+    margin-left: 440px;
     margin-top: 90px;
     opacity: 90%;
 }
@@ -83,7 +83,7 @@ background-color: rgb(110, 135, 202);
     text-align: center;
 }
 .content hr{
-    width: 200px;
+    width: 250px;
     border-color: #888;
 }
 .content img{
@@ -114,6 +114,7 @@ background-color: rgb(110, 135, 202);
     margin-top: -22px;
 }
 .isiabout p{
+    margin-top: 100px;
     font-family: sans-serif;
     text-align: justify;
 }
